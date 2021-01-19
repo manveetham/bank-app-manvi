@@ -1,0 +1,19 @@
+.welcome{
+  align-items: center;display: flex;justify-content: center; 
+  font-family:Verdana; height: 300px;
+  font-weight:bolder;font-size: larger; font-stretch: ultra-expanded;color:midnightblue; 
+  padding: 50px;
+    }
+  .profile{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    justify-content: space-evenly;
+    justify-content: space-around;
+    align-content: center;
+    height: 50%;
+    width: 50%;
+    margin:auto;
+  }
+     
